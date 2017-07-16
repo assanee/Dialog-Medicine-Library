@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="dark_light_gray">#747474</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="dark_gray">#2E2E2E</color>
+    <color name="gray">#777777</color>
+    <color name="orange">#FF8400</color>
+    <color name="green">#7EBF3E</color>
+
+    <color name="SwipeRefreshColor1">#FF5722</color>
+    <color name="SwipeRefreshColor2">#99cc00</color>
+    <color name="SwipeRefreshColor3">#AA00FF</color>
+
+    <color name="black">#000000</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_2">#FEFEFE</color>
+
+    <color name="color_calendar_text">#FEFEFE</color>
+    <color name="color_calendar">#747474</color>
+    <color name="color_current_day">#B71C1C</color>
+
+    <color name="DeepOrange">#FF5722</color>
+
+    <color name="rb_unchecked">#FF6D6D6D</color>
+    <color name="rb_disable">#FFB0B0B0</color>
+    <color name="transparent_new">#AA000000</color>
+
+
+    <color name="holo_green">#99cc00</color>
+    <color name="holo_orange">#ffbb33</color>
+    <color name="holo_red">#ff4444</color>
+
+    <color name="Color_51_1">#ff7300</color>
+
+    <color name="primary">@color/orange_firebase</color>
+    <color name="primary_dark">@color/dark_orange_firebase</color>
+    <color name="accent">@color/blue</color>
+
+    <color name="text_primary">@color/primary</color>
+    <color name="text_accent">@color/accent</color>
+    <color name="text_white">@color/white</color>
+    <color name="text_light_gray">@color/light_gray</color>
+    <color name="text_gray">@color/gray</color>
+    <color name="text_black">@color/dark_gray</color>
+    <color name="text_warning">@color/yellow</color>
+    <color name="text_error">@color/red</color>
+    <color name="text_link">@color/blue</color>
+
+    <color name="warning">@color/yellow</color>
+    <color name="error">@color/red</color>
+
+    <color name="divider">@color/extra_light_gray</color>
+    <color name="focused_border">@color/orange</color>
+
+    <color name="light_red">#ef375e</color>
+    <color name="red">#ef375e</color>
+    <color name="dark_red">#dd244b</color>
+    <color name="light_cyan">#27ccd8</color>
+    <color name="cyan">#14bdc9</color>
+    <color name="dark_cyan">#09b1bd</color>
+    <color name="dark_blue">#1f41c3</color>
+    <color name="light_blue">#039be5</color>
+    <color name="blue">#0288d1</color>
+    <color name="green_new">#9bce7d</color>
+    <color name="light_green">#a6d987</color>
+    <color name="dark_green">#8dc56e</color>
+    <color name="light_yellow">#ffd653</color>
+    <color name="yellow">#f5c531</color>
+    <color name="dark_yellow">#eebb20</color>
+    <color name="orange_new">#ff9c00</color>
+    <color name="orange_firebase">#fb8c00</color>
+    <color name="dark_orange_firebase">#dc7d06</color>
+    <color name="white_new">#ffffff</color>
+    <color name="extra_extra_light_gray">#fafafa</color>
+    <color name="extra_light_gray">#ededed</color>
+    <color name="light_gray_new">#dddddd</color>
+    <color name="gray_new">#999999</color>
+    <color name="dark_gray_new">#444444</color>
+    <color name="black_new">#111111</color>
+    <color name="black_alpha_40">#40000000</color>
+    <color name="black_alpha_20">#20000000</color>
+    <color name="black_alpha_10">#10000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
